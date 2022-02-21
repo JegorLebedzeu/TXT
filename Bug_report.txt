@@ -1,1 +1,12 @@
-
+Windows 10 Gift cards - clicking on "Shop now"link opens a broken page
+Action perforemed:       1. Open link https//:www.website.com/
+                         2. Scroll down and select "Gift cards"
+                         3. Select "Shop now"
+Expected result:         Should open a page where we can customize a Wendy's fastfood giftcards
+Actual result:           Opened a broken page showing error message
+Error message:           This page isn't working
+Exact URL:               https//:website_fastfood_wendysgiftcards
+Did you attach a video?: Yes, I did upload a video
+Did you attach a foto?:  Yes, I did upload a labeled screenschot of an issue
+Did you attach a log
+with timestamps?:        Yes, I did upload a device log or console log in .txt format
